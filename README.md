@@ -34,8 +34,13 @@ Frontend
 - Left-side menu: The menu will have an option to access the Morning Wellness component.
 - Note-taking section: The component will have a note-taking section where users can write notes and upload images.
 
-Getting Started
+## Download npm
+Link- https://nodejs.org/en/download/
 
-1. Clone the repository
-2. Install dependencies: npm install
-3. Start the application: npm start
+### Commands to be written on terminal:
+
+1.cd demo-MW
+2.cd client
+3.npm i axios@1.9.0 bootstrap@5.3.6 react@19.1.0 react-dom@19.1.0 react-router-dom@7.6.0
+4.npm install
+5.npm run dev
