@@ -39,8 +39,8 @@ Link- https://nodejs.org/en/download/
 
 ### Commands to be written on terminal:
 
--cd demo-MW
--cd client
--npm i axios@1.9.0 bootstrap@5.3.6 react@19.1.0 react-dom@19.1.0 react-router-dom@7.6.0
--npm install
--npm run dev
+- cd demo-MW
+- cd client
+- npm i axios@1.9.0 bootstrap@5.3.6 react@19.1.0 react-dom@19.1.0 react-router-dom@7.6.0
+- npm install
+- npm run dev
